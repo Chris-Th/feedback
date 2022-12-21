@@ -1,0 +1,7 @@
+function goodFunction() {
+
+}
+
+function badFunction() {
+
+}
