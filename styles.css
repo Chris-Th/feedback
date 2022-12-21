@@ -1,0 +1,18 @@
+.mypclass {
+    font-size:36px;
+    text-align: center;
+}
+
+.mydanger {
+    float:inline-end
+}
+
+.feedbp {
+    font-size: 36px;
+    color: #000;
+}
+
+.myemo {
+    color: green;
+    fill: blue;
+}
